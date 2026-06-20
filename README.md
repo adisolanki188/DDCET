@@ -6,7 +6,7 @@ A mobile-optimized, single-page web application providing one-click access to DD
 * **Updated Edition:** March 2024
 * **Design Framework:** Vanilla CSS Custom Properties (CSS variables) + Flexbox/Grid
 * **Iconography:** Font Awesome v6.4.0
-
+* **live page:** https://adisolanki188.github.io/DDCET/
 ---
 
 ## 📊 Repository Features & Statistics
